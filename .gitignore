@@ -10,4 +10,4 @@ scripts/pe_demuxer_dist.py
 scripts/util_functions_dist.py
 scripts/rename_output_files.py
 .ipynb_checkpoints/
-
+__pycache__/
