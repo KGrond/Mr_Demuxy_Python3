@@ -1,0 +1,13 @@
+# ignore files
+.DS_Store
+2025-10-14_16Sdata_Uhlik/
+data/
+mr_demuxy_python3_V2.ipynb
+mr_demuxy_python3.ipynb
+mr_demuxy.ipynb
+scripts/biopython.py
+scripts/pe_demuxer_dist.py
+scripts/util_functions_dist.py
+scripts/rename_output_files.py
+.ipynb_checkpoints/
+
